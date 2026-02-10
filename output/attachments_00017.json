@@ -1,0 +1,14 @@
+{
+  "relevant": [
+    "example_00017_attachment_06.pdf",
+    "example_00017_attachment_07.pdf"
+  ],
+  "irrelevant": [
+    "example_00017_attachment_01.png",
+    "example_00017_attachment_02.png",
+    "example_00017_attachment_03.png",
+    "example_00017_attachment_04.png",
+    "example_00017_attachment_05.png",
+    "example_00017_attachment_08.png"
+  ]
+}
